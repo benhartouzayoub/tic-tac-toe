@@ -1,0 +1,28 @@
+.box {
+    background-color: #FFF;
+    border: none;
+    border-radius: 10%;
+    box-shadow: 0px 0px 10px #888;
+    border: 0 solid #000;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Lilita One', cursive;
+    font-weight: 200;
+    line-height: 5rem;
+    margin: 0.5rem;
+}
+
+.x {
+    color: #337CCF;
+}
+
+.o {
+    color: #FFC436;
+}
+
+.box:hover {
+    box-shadow: 0px 0px 13px #888;
+    cursor: pointer;
+}
